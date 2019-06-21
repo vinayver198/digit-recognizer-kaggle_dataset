@@ -1,0 +1,3 @@
+# Digit Recognizer
+This is a Kaggle Digit Recognizer Competition :[Digit Recoginzer](https://www.kaggle.com/c/digit-recognizer). 
+The objective of this competition to classify the digits correctly by training it on different algorithms. In this repo, I have used Convolutional Neural Network with (5,5) filters with 32,64,64 filter size with activation function relu, Pooling layer of (2,2), hidden layer of 64 units with relu activation function and output layer of 10 units with activation function of softmax. I have achieved accuracy of 0.98814 out of 1 . You can experiment with different combinations of layers and improve the performance.
